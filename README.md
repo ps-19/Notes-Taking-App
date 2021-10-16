@@ -1,3 +1,6 @@
+
+![Embed](https://user-images.githubusercontent.com/63330165/137575039-13425c09-ef5e-4d97-997e-ea820f55502f.gif)
+
 # Notes-Taking-App
 Nodejs NPM Firebase EJF(Embedded Javascript File) Express. Node.js is a Javascript runtime environment that executes JavaScript code outside of a browser. Here I have taken the easy steps into building a Note-taking App using Node.js. The Note-taking App we will work on is a simple web application that allows the user to input text and deletes the inputted texts. 
 Step 1: Basic Installations
